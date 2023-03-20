@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Latihan3_Chapter2</string>
+    <string name="login">Connexion</string>
+    <string name="username">nom d'utilisateur</string>
+    <string name="paswword">Mot de passe</string>
+    <string name="ulangi_password">Répéter le mot de passe</string>
+    <string name="password">Mot de paase</string>
+    <string name="register">Enregistrer</string>
+    <string name="sign_up">S'inscrire</string>
+    <string name="login2">CONNEXION</string>
+    <string name="login3">connexuin</string>
+    <string name="hello_welcome">Bonjour, Bienvenue</string>
+
+</resources>
